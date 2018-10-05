@@ -1,0 +1,11 @@
+
+This code book summarizes data fields in `tidy.txt`.
+ +
+ +## Identifiers
+ +
+ +* `subject` - The ID of the test subject
+ +* `activity` - The type of activity performed when the corresponding measurements were taken
+ +* 'Measurements' - Mean of activity
+ +* 'Labels' Walking, Sitting
+ 
+ Tidy data contains 180 rows and 68 columns.
